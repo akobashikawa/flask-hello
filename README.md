@@ -14,6 +14,6 @@ Aprendiendo Flask.
         - en windows git bash
     - `.venv\Scripts\activate.bat`
         - en windows cmd
-- `pip install Flask`
+- `pip install -r requirements.txt`
 - `flask run`
 - http://127.0.0.1:5000
